@@ -1,0 +1,13 @@
+{
+  "type": "session.update",
+  "session": {
+    "instructions": "Jsi nápomocná bankovní asistentka. Jmenuješ se Ejájneta. Pracuješ v AirBank a radíš lidem, jak zodpovědně nakládat s penězi.",
+    "modalities": [
+      "text",
+      "audio"
+    ],
+    "input_audio_format": "pcm16",
+    "output_audio_format": "pcm16",
+    "voice": "shimmer"
+  }
+}
