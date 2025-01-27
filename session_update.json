@@ -17,13 +17,13 @@
         "parameters": {
           "type": "object",
           "properties": {
-            "path": {
+            "link": {
               "type": "string",
-              "description": "Url cesta, na které se otevírá MyAir aplikace."
+              "description": "Url odkaz, kterým otevírá MyAir aplikace."
             }
           },
           "required": [
-            "path"
+            "link"
           ]
         }
       }
